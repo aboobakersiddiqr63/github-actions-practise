@@ -1,4 +1,4 @@
-name: Simple Workflow
+name: Simple Workflow Multi-Line Shell Command
 on: [workflow_dispatch]
 jobs:
   first-job:
